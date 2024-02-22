@@ -1,1 +1,33 @@
 /* your code here */
+.content{
+	background-color:black;
+	height:300px;
+	width:500px;
+}
+.logo_name{
+	color:white;
+	font-size:30px;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+}
+.media-icons{
+	color:white;
+	display:flex;
+	text-decoration:none !important;
+}
+.link-boxes{
+	color:white;
+	  display: flex !important;
+	justify-content:space-between;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	background-color:gray;
+	color:white;
+	font-size:20px;
+	height:50px;
+	width:500px;
+}
